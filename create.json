@@ -1,0 +1,7 @@
+POST https://jsonplaceholder.typicode.com/posts
+Body (raw JSON):
+{
+    "title": "API Test",
+    "body": "CRUD in Postman",
+    "userId": 1
+}
